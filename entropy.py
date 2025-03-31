@@ -74,18 +74,18 @@ def get_image_profile(fname):
 def get_image_profiles(force_update=False):
     if (isfile("processed_images.json")):
         return json.loads("processed_images.json")
-    poisoned_files = [f for f in listdir("poisoned_images") if isfile(join("poisoned_images", f))]
-    clean_files = [f for f in listdir("images") if isfile(join("images", f))]
+    poisoned_files = [f for f in listdir("poisoned_images/scaled/") if isfile(join("poisoned_images/scaled/", f))]
+    clean_files = [f for f in listdir("images/scaled/") if isfile(join("images/scaled/", f))]
     pi = []
     ci = []
     print("Poisoned images starting...")
     for i in range(len(poisoned_files)):
-        pi += [get_image_profile("poisoned_images/" + poisoned_files[i])]
+        pi += [get_image_profile("poisoned_images/scaled/" + poisoned_files[i])]
         print(f"Poisoned image {i + 1}/{len(poisoned_files)} done.")
     print("Poisoned images complete.")
     print("Clean images starting...")
     for i in range(len(clean_files)):
-        ci += [get_image_profile("images/" + clean_files[i])]
+        ci += [get_image_profile("images/scaled/" + clean_files[i])]
         print(f"Clean image {i + 1}/{len(clean_files)} done.")
     print("Clean images complete.")
     profiles = {

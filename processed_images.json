@@ -1,0 +1,1406 @@
+{
+    "clean_images": [
+        {
+            "fname": "scaled_image_0.png",
+            "height": 500,
+            "luminance_entropy": 0.08181931640828875,
+            "width": 500,
+            "zip_entropy": 0.765548
+        },
+        {
+            "fname": "scaled_image_1.png",
+            "height": 500,
+            "luminance_entropy": 0.023287058425261006,
+            "width": 500,
+            "zip_entropy": 0.4736226666666667
+        },
+        {
+            "fname": "scaled_image_10.png",
+            "height": 500,
+            "luminance_entropy": 0.09963536793987404,
+            "width": 500,
+            "zip_entropy": 0.7345733333333333
+        },
+        {
+            "fname": "scaled_image_11.png",
+            "height": 500,
+            "luminance_entropy": 0.047608634082059884,
+            "width": 500,
+            "zip_entropy": 0.5507453333333333
+        },
+        {
+            "fname": "scaled_image_12.png",
+            "height": 500,
+            "luminance_entropy": 0.09165194444279047,
+            "width": 500,
+            "zip_entropy": 0.831224
+        },
+        {
+            "fname": "scaled_image_13.png",
+            "height": 500,
+            "luminance_entropy": 0.04149238562963533,
+            "width": 500,
+            "zip_entropy": 0.7443466666666667
+        },
+        {
+            "fname": "scaled_image_14.png",
+            "height": 500,
+            "luminance_entropy": 0.03738332750335544,
+            "width": 500,
+            "zip_entropy": 0.6088853333333333
+        },
+        {
+            "fname": "scaled_image_15.png",
+            "height": 500,
+            "luminance_entropy": 0.0547096615930012,
+            "width": 500,
+            "zip_entropy": 0.5890506666666666
+        },
+        {
+            "fname": "scaled_image_16.png",
+            "height": 500,
+            "luminance_entropy": 0.07271224930347481,
+            "width": 500,
+            "zip_entropy": 0.850112
+        },
+        {
+            "fname": "scaled_image_17.png",
+            "height": 500,
+            "luminance_entropy": 0.0145911429971962,
+            "width": 500,
+            "zip_entropy": 0.4438573333333333
+        },
+        {
+            "fname": "scaled_image_18.png",
+            "height": 500,
+            "luminance_entropy": 0.11638181017762138,
+            "width": 500,
+            "zip_entropy": 0.7778586666666667
+        },
+        {
+            "fname": "scaled_image_19.png",
+            "height": 500,
+            "luminance_entropy": 0.041284857791908935,
+            "width": 500,
+            "zip_entropy": 0.5230386666666667
+        },
+        {
+            "fname": "scaled_image_2.png",
+            "height": 500,
+            "luminance_entropy": 0.01377183875781114,
+            "width": 500,
+            "zip_entropy": 0.597228
+        },
+        {
+            "fname": "scaled_image_20.png",
+            "height": 500,
+            "luminance_entropy": 0.08170425041458884,
+            "width": 500,
+            "zip_entropy": 0.7378546666666667
+        },
+        {
+            "fname": "scaled_image_21.png",
+            "height": 500,
+            "luminance_entropy": 0.03825716508459127,
+            "width": 500,
+            "zip_entropy": 0.697228
+        },
+        {
+            "fname": "scaled_image_22.png",
+            "height": 500,
+            "luminance_entropy": 0.05971322845458314,
+            "width": 500,
+            "zip_entropy": 0.6160186666666667
+        },
+        {
+            "fname": "scaled_image_23.png",
+            "height": 500,
+            "luminance_entropy": 0.11284298545509222,
+            "width": 500,
+            "zip_entropy": 0.4479706666666667
+        },
+        {
+            "fname": "scaled_image_24.png",
+            "height": 500,
+            "luminance_entropy": 0.01222903646985325,
+            "width": 500,
+            "zip_entropy": 0.48079866666666665
+        },
+        {
+            "fname": "scaled_image_25.png",
+            "height": 500,
+            "luminance_entropy": 0.10339611356992368,
+            "width": 500,
+            "zip_entropy": 0.8849573333333334
+        },
+        {
+            "fname": "scaled_image_26.png",
+            "height": 500,
+            "luminance_entropy": 0.07214373054852335,
+            "width": 500,
+            "zip_entropy": 0.546996
+        },
+        {
+            "fname": "scaled_image_27.png",
+            "height": 500,
+            "luminance_entropy": 0.059150254653266704,
+            "width": 500,
+            "zip_entropy": 0.6890573333333333
+        },
+        {
+            "fname": "scaled_image_28.png",
+            "height": 500,
+            "luminance_entropy": 0.057065969804216805,
+            "width": 500,
+            "zip_entropy": 0.6367093333333333
+        },
+        {
+            "fname": "scaled_image_29.png",
+            "height": 500,
+            "luminance_entropy": 0.05708884694598072,
+            "width": 500,
+            "zip_entropy": 0.9117546666666667
+        },
+        {
+            "fname": "scaled_image_3.png",
+            "height": 500,
+            "luminance_entropy": 0.049156591718949066,
+            "width": 500,
+            "zip_entropy": 0.37749066666666664
+        },
+        {
+            "fname": "scaled_image_30.png",
+            "height": 500,
+            "luminance_entropy": 0.058344079430105444,
+            "width": 500,
+            "zip_entropy": 0.7848706666666667
+        },
+        {
+            "fname": "scaled_image_31.png",
+            "height": 500,
+            "luminance_entropy": 0.04646414409422237,
+            "width": 500,
+            "zip_entropy": 0.7070946666666666
+        },
+        {
+            "fname": "scaled_image_32.png",
+            "height": 500,
+            "luminance_entropy": 0.05447184105372122,
+            "width": 500,
+            "zip_entropy": 0.5641706666666667
+        },
+        {
+            "fname": "scaled_image_33.png",
+            "height": 500,
+            "luminance_entropy": 0.10089388185113364,
+            "width": 500,
+            "zip_entropy": 0.43871333333333334
+        },
+        {
+            "fname": "scaled_image_34.png",
+            "height": 500,
+            "luminance_entropy": 0.07954963408303548,
+            "width": 500,
+            "zip_entropy": 0.43889066666666665
+        },
+        {
+            "fname": "scaled_image_35.png",
+            "height": 500,
+            "luminance_entropy": 0.02983203935428687,
+            "width": 500,
+            "zip_entropy": 0.42262
+        },
+        {
+            "fname": "scaled_image_36.png",
+            "height": 500,
+            "luminance_entropy": 0.021458483815836267,
+            "width": 500,
+            "zip_entropy": 0.6047813333333333
+        },
+        {
+            "fname": "scaled_image_37.png",
+            "height": 500,
+            "luminance_entropy": 0.01752979122709251,
+            "width": 500,
+            "zip_entropy": 0.4713306666666667
+        },
+        {
+            "fname": "scaled_image_38.png",
+            "height": 500,
+            "luminance_entropy": 0.025570547317899702,
+            "width": 500,
+            "zip_entropy": 0.772184
+        },
+        {
+            "fname": "scaled_image_39.png",
+            "height": 500,
+            "luminance_entropy": 0.043520090314240485,
+            "width": 500,
+            "zip_entropy": 0.728852
+        },
+        {
+            "fname": "scaled_image_4.png",
+            "height": 500,
+            "luminance_entropy": 0.06631892179033816,
+            "width": 500,
+            "zip_entropy": 0.771752
+        },
+        {
+            "fname": "scaled_image_40.png",
+            "height": 500,
+            "luminance_entropy": 0.06842959433233055,
+            "width": 500,
+            "zip_entropy": 0.7777893333333333
+        },
+        {
+            "fname": "scaled_image_41.png",
+            "height": 500,
+            "luminance_entropy": 0.09725614608917718,
+            "width": 500,
+            "zip_entropy": 0.8386893333333333
+        },
+        {
+            "fname": "scaled_image_42.png",
+            "height": 500,
+            "luminance_entropy": 0.04650688218584201,
+            "width": 500,
+            "zip_entropy": 0.6314746666666666
+        },
+        {
+            "fname": "scaled_image_43.png",
+            "height": 500,
+            "luminance_entropy": 0.08033559531402067,
+            "width": 500,
+            "zip_entropy": 0.754196
+        },
+        {
+            "fname": "scaled_image_44.png",
+            "height": 500,
+            "luminance_entropy": 0.10420891074816079,
+            "width": 500,
+            "zip_entropy": 0.6663053333333333
+        },
+        {
+            "fname": "scaled_image_45.png",
+            "height": 500,
+            "luminance_entropy": 0.03142957569720598,
+            "width": 500,
+            "zip_entropy": 0.614308
+        },
+        {
+            "fname": "scaled_image_46.png",
+            "height": 500,
+            "luminance_entropy": 0.03949288774438561,
+            "width": 500,
+            "zip_entropy": 0.6805493333333333
+        },
+        {
+            "fname": "scaled_image_47.png",
+            "height": 500,
+            "luminance_entropy": 0.014687899884748404,
+            "width": 500,
+            "zip_entropy": 0.4262613333333333
+        },
+        {
+            "fname": "scaled_image_48.png",
+            "height": 500,
+            "luminance_entropy": 0.030763719938180722,
+            "width": 500,
+            "zip_entropy": 0.82638
+        },
+        {
+            "fname": "scaled_image_49.png",
+            "height": 500,
+            "luminance_entropy": 0.028112296497324007,
+            "width": 500,
+            "zip_entropy": 0.67962
+        },
+        {
+            "fname": "scaled_image_5.png",
+            "height": 500,
+            "luminance_entropy": 0.05287944354983169,
+            "width": 500,
+            "zip_entropy": 0.7705893333333333
+        },
+        {
+            "fname": "scaled_image_50.png",
+            "height": 500,
+            "luminance_entropy": 0.04779736219782556,
+            "width": 500,
+            "zip_entropy": 0.6146453333333334
+        },
+        {
+            "fname": "scaled_image_51.png",
+            "height": 500,
+            "luminance_entropy": 0.0541334857596012,
+            "width": 500,
+            "zip_entropy": 0.717488
+        },
+        {
+            "fname": "scaled_image_52.png",
+            "height": 500,
+            "luminance_entropy": 0.010731415250295265,
+            "width": 500,
+            "zip_entropy": 0.370684
+        },
+        {
+            "fname": "scaled_image_53.png",
+            "height": 500,
+            "luminance_entropy": 0.021107399912461584,
+            "width": 500,
+            "zip_entropy": 0.30662666666666666
+        },
+        {
+            "fname": "scaled_image_54.png",
+            "height": 500,
+            "luminance_entropy": 0.050184289236445107,
+            "width": 500,
+            "zip_entropy": 0.8503053333333334
+        },
+        {
+            "fname": "scaled_image_55.png",
+            "height": 500,
+            "luminance_entropy": 0.01589632115802672,
+            "width": 500,
+            "zip_entropy": 0.31052
+        },
+        {
+            "fname": "scaled_image_56.png",
+            "height": 500,
+            "luminance_entropy": 0.12860719874201176,
+            "width": 500,
+            "zip_entropy": 0.5076
+        },
+        {
+            "fname": "scaled_image_57.png",
+            "height": 500,
+            "luminance_entropy": 0.10801286675269489,
+            "width": 500,
+            "zip_entropy": 0.76872
+        },
+        {
+            "fname": "scaled_image_58.png",
+            "height": 500,
+            "luminance_entropy": 0.04735530451857761,
+            "width": 500,
+            "zip_entropy": 0.639112
+        },
+        {
+            "fname": "scaled_image_59.png",
+            "height": 500,
+            "luminance_entropy": 0.0696247175892001,
+            "width": 500,
+            "zip_entropy": 0.7199586666666666
+        },
+        {
+            "fname": "scaled_image_6.png",
+            "height": 500,
+            "luminance_entropy": 0.15315174377129248,
+            "width": 500,
+            "zip_entropy": 0.923196
+        },
+        {
+            "fname": "scaled_image_60.png",
+            "height": 500,
+            "luminance_entropy": 0.018878303775684294,
+            "width": 500,
+            "zip_entropy": 0.48236266666666666
+        },
+        {
+            "fname": "scaled_image_61.png",
+            "height": 500,
+            "luminance_entropy": 0.0660270107602398,
+            "width": 500,
+            "zip_entropy": 0.8675266666666667
+        },
+        {
+            "fname": "scaled_image_62.png",
+            "height": 500,
+            "luminance_entropy": 0.030187360442605123,
+            "width": 500,
+            "zip_entropy": 0.5884533333333334
+        },
+        {
+            "fname": "scaled_image_63.png",
+            "height": 500,
+            "luminance_entropy": 0.012666485366104277,
+            "width": 500,
+            "zip_entropy": 0.352356
+        },
+        {
+            "fname": "scaled_image_64.png",
+            "height": 500,
+            "luminance_entropy": 0.14762046724332586,
+            "width": 500,
+            "zip_entropy": 0.8958093333333333
+        },
+        {
+            "fname": "scaled_image_65.png",
+            "height": 500,
+            "luminance_entropy": 0.03786745535854143,
+            "width": 500,
+            "zip_entropy": 0.5226186666666667
+        },
+        {
+            "fname": "scaled_image_66.png",
+            "height": 500,
+            "luminance_entropy": 0.040440880444691414,
+            "width": 500,
+            "zip_entropy": 0.7315786666666667
+        },
+        {
+            "fname": "scaled_image_67.png",
+            "height": 500,
+            "luminance_entropy": 0.057686102124565056,
+            "width": 500,
+            "zip_entropy": 0.7883466666666666
+        },
+        {
+            "fname": "scaled_image_68.png",
+            "height": 500,
+            "luminance_entropy": 0.07836416425957657,
+            "width": 500,
+            "zip_entropy": 0.5620173333333334
+        },
+        {
+            "fname": "scaled_image_69.png",
+            "height": 500,
+            "luminance_entropy": 0.05329411253932582,
+            "width": 500,
+            "zip_entropy": 0.8268173333333333
+        },
+        {
+            "fname": "scaled_image_7.png",
+            "height": 500,
+            "luminance_entropy": 0.04516456942128998,
+            "width": 500,
+            "zip_entropy": 0.8816106666666667
+        },
+        {
+            "fname": "scaled_image_70.png",
+            "height": 500,
+            "luminance_entropy": 0.028955490085400694,
+            "width": 500,
+            "zip_entropy": 0.6092693333333333
+        },
+        {
+            "fname": "scaled_image_71.png",
+            "height": 500,
+            "luminance_entropy": 0.07397304861421257,
+            "width": 500,
+            "zip_entropy": 0.7776746666666666
+        },
+        {
+            "fname": "scaled_image_72.png",
+            "height": 500,
+            "luminance_entropy": 0.021052505217475495,
+            "width": 500,
+            "zip_entropy": 0.47200933333333334
+        },
+        {
+            "fname": "scaled_image_73.png",
+            "height": 500,
+            "luminance_entropy": 0.03842726361575189,
+            "width": 500,
+            "zip_entropy": 0.7190946666666667
+        },
+        {
+            "fname": "scaled_image_74.png",
+            "height": 500,
+            "luminance_entropy": 0.04695327321898425,
+            "width": 500,
+            "zip_entropy": 0.7209226666666667
+        },
+        {
+            "fname": "scaled_image_75.png",
+            "height": 500,
+            "luminance_entropy": 0.07800023651837387,
+            "width": 500,
+            "zip_entropy": 0.8701706666666666
+        },
+        {
+            "fname": "scaled_image_76.png",
+            "height": 500,
+            "luminance_entropy": 0.07101837470128484,
+            "width": 500,
+            "zip_entropy": 0.738872
+        },
+        {
+            "fname": "scaled_image_77.png",
+            "height": 500,
+            "luminance_entropy": 0.06539249983738983,
+            "width": 500,
+            "zip_entropy": 0.6954866666666667
+        },
+        {
+            "fname": "scaled_image_78.png",
+            "height": 500,
+            "luminance_entropy": 0.14464268602878383,
+            "width": 500,
+            "zip_entropy": 0.438028
+        },
+        {
+            "fname": "scaled_image_79.png",
+            "height": 500,
+            "luminance_entropy": 0.02216058238237977,
+            "width": 500,
+            "zip_entropy": 0.5224213333333333
+        },
+        {
+            "fname": "scaled_image_8.png",
+            "height": 500,
+            "luminance_entropy": 0.039140404331572676,
+            "width": 500,
+            "zip_entropy": 0.69488
+        },
+        {
+            "fname": "scaled_image_80.png",
+            "height": 500,
+            "luminance_entropy": 0.03113441306843168,
+            "width": 500,
+            "zip_entropy": 0.563796
+        },
+        {
+            "fname": "scaled_image_81.png",
+            "height": 500,
+            "luminance_entropy": 0.17046386394824592,
+            "width": 500,
+            "zip_entropy": 0.6149986666666667
+        },
+        {
+            "fname": "scaled_image_82.png",
+            "height": 500,
+            "luminance_entropy": 0.03695780688239762,
+            "width": 500,
+            "zip_entropy": 0.5556413333333333
+        },
+        {
+            "fname": "scaled_image_83.png",
+            "height": 500,
+            "luminance_entropy": 0.05852328125058336,
+            "width": 500,
+            "zip_entropy": 0.3915693333333333
+        },
+        {
+            "fname": "scaled_image_84.png",
+            "height": 500,
+            "luminance_entropy": 0.10089743073270553,
+            "width": 500,
+            "zip_entropy": 0.6818053333333334
+        },
+        {
+            "fname": "scaled_image_85.png",
+            "height": 500,
+            "luminance_entropy": 0.060071050404187025,
+            "width": 500,
+            "zip_entropy": 0.4177093333333333
+        },
+        {
+            "fname": "scaled_image_86.png",
+            "height": 500,
+            "luminance_entropy": 0.03949743985508476,
+            "width": 500,
+            "zip_entropy": 0.551156
+        },
+        {
+            "fname": "scaled_image_87.png",
+            "height": 500,
+            "luminance_entropy": 0.01581954942460834,
+            "width": 500,
+            "zip_entropy": 0.538952
+        },
+        {
+            "fname": "scaled_image_88.png",
+            "height": 500,
+            "luminance_entropy": 0.0693110718919728,
+            "width": 500,
+            "zip_entropy": 0.839076
+        },
+        {
+            "fname": "scaled_image_89.png",
+            "height": 500,
+            "luminance_entropy": 0.058072787202773,
+            "width": 500,
+            "zip_entropy": 0.6926746666666667
+        },
+        {
+            "fname": "scaled_image_9.png",
+            "height": 500,
+            "luminance_entropy": 0.033566846757968644,
+            "width": 500,
+            "zip_entropy": 0.6095386666666667
+        },
+        {
+            "fname": "scaled_image_90.png",
+            "height": 500,
+            "luminance_entropy": 0.0733424643778424,
+            "width": 500,
+            "zip_entropy": 0.788328
+        },
+        {
+            "fname": "scaled_image_91.png",
+            "height": 500,
+            "luminance_entropy": 0.11541159717891625,
+            "width": 500,
+            "zip_entropy": 0.84482
+        },
+        {
+            "fname": "scaled_image_92.png",
+            "height": 500,
+            "luminance_entropy": 0.03670266246479595,
+            "width": 500,
+            "zip_entropy": 0.6222546666666666
+        },
+        {
+            "fname": "scaled_image_93.png",
+            "height": 500,
+            "luminance_entropy": 0.041092617615252056,
+            "width": 500,
+            "zip_entropy": 0.6148173333333333
+        },
+        {
+            "fname": "scaled_image_94.png",
+            "height": 500,
+            "luminance_entropy": 0.008373599090443681,
+            "width": 500,
+            "zip_entropy": 0.3899106666666667
+        },
+        {
+            "fname": "scaled_image_95.png",
+            "height": 500,
+            "luminance_entropy": 0.10008020357154157,
+            "width": 500,
+            "zip_entropy": 0.768252
+        },
+        {
+            "fname": "scaled_image_96.png",
+            "height": 500,
+            "luminance_entropy": 0.050808446796572114,
+            "width": 500,
+            "zip_entropy": 0.39138
+        },
+        {
+            "fname": "scaled_image_97.png",
+            "height": 500,
+            "luminance_entropy": 0.029332821531337157,
+            "width": 500,
+            "zip_entropy": 0.477196
+        },
+        {
+            "fname": "scaled_image_98.png",
+            "height": 500,
+            "luminance_entropy": 0.11235338694063313,
+            "width": 500,
+            "zip_entropy": 0.825544
+        },
+        {
+            "fname": "scaled_image_99.png",
+            "height": 500,
+            "luminance_entropy": 0.024176294113213148,
+            "width": 500,
+            "zip_entropy": 0.57972
+        }
+    ],
+    "poisoned_images": [
+        {
+            "fname": "scaled_image_0.png",
+            "height": 500,
+            "luminance_entropy": 0.0869860868033909,
+            "width": 500,
+            "zip_entropy": 0.8409226666666667
+        },
+        {
+            "fname": "scaled_image_1.png",
+            "height": 500,
+            "luminance_entropy": 0.10819517781663968,
+            "width": 500,
+            "zip_entropy": 0.840832
+        },
+        {
+            "fname": "scaled_image_10.png",
+            "height": 500,
+            "luminance_entropy": 0.03184895081283398,
+            "width": 500,
+            "zip_entropy": 0.7662186666666667
+        },
+        {
+            "fname": "scaled_image_11.png",
+            "height": 500,
+            "luminance_entropy": 0.0235613163446103,
+            "width": 500,
+            "zip_entropy": 0.758416
+        },
+        {
+            "fname": "scaled_image_12.png",
+            "height": 500,
+            "luminance_entropy": 0.09163992057869556,
+            "width": 500,
+            "zip_entropy": 0.7912973333333333
+        },
+        {
+            "fname": "scaled_image_13.png",
+            "height": 500,
+            "luminance_entropy": 0.051612421859150756,
+            "width": 500,
+            "zip_entropy": 0.7543813333333333
+        },
+        {
+            "fname": "scaled_image_14.png",
+            "height": 500,
+            "luminance_entropy": 0.06156345048553169,
+            "width": 500,
+            "zip_entropy": 0.482424
+        },
+        {
+            "fname": "scaled_image_15.png",
+            "height": 500,
+            "luminance_entropy": 0.03384561287916568,
+            "width": 500,
+            "zip_entropy": 0.727964
+        },
+        {
+            "fname": "scaled_image_16.png",
+            "height": 500,
+            "luminance_entropy": 0.05376636806838881,
+            "width": 500,
+            "zip_entropy": 0.7936786666666666
+        },
+        {
+            "fname": "scaled_image_17.png",
+            "height": 500,
+            "luminance_entropy": 0.03778403089938116,
+            "width": 500,
+            "zip_entropy": 0.7850506666666667
+        },
+        {
+            "fname": "scaled_image_18.png",
+            "height": 500,
+            "luminance_entropy": 0.024002953351151227,
+            "width": 500,
+            "zip_entropy": 0.662412
+        },
+        {
+            "fname": "scaled_image_19.png",
+            "height": 500,
+            "luminance_entropy": 0.03366919988900195,
+            "width": 500,
+            "zip_entropy": 0.5873906666666666
+        },
+        {
+            "fname": "scaled_image_2.png",
+            "height": 500,
+            "luminance_entropy": 0.036727575314078324,
+            "width": 500,
+            "zip_entropy": 0.628024
+        },
+        {
+            "fname": "scaled_image_20.png",
+            "height": 500,
+            "luminance_entropy": 0.05002917564008467,
+            "width": 500,
+            "zip_entropy": 0.6926253333333333
+        },
+        {
+            "fname": "scaled_image_21.png",
+            "height": 500,
+            "luminance_entropy": 0.09453930146789134,
+            "width": 500,
+            "zip_entropy": 0.7741826666666667
+        },
+        {
+            "fname": "scaled_image_22.png",
+            "height": 500,
+            "luminance_entropy": 0.034417144498061984,
+            "width": 500,
+            "zip_entropy": 0.6670906666666667
+        },
+        {
+            "fname": "scaled_image_23.png",
+            "height": 500,
+            "luminance_entropy": 0.01942665446742467,
+            "width": 500,
+            "zip_entropy": 0.628412
+        },
+        {
+            "fname": "scaled_image_24.png",
+            "height": 500,
+            "luminance_entropy": 0.09623908665594318,
+            "width": 500,
+            "zip_entropy": 0.8684546666666667
+        },
+        {
+            "fname": "scaled_image_25.png",
+            "height": 500,
+            "luminance_entropy": 0.07204667297491736,
+            "width": 500,
+            "zip_entropy": 0.857352
+        },
+        {
+            "fname": "scaled_image_26.png",
+            "height": 500,
+            "luminance_entropy": 0.04519623822601955,
+            "width": 500,
+            "zip_entropy": 0.788968
+        },
+        {
+            "fname": "scaled_image_27.png",
+            "height": 500,
+            "luminance_entropy": 0.1075282897001247,
+            "width": 500,
+            "zip_entropy": 0.8264653333333334
+        },
+        {
+            "fname": "scaled_image_28.png",
+            "height": 500,
+            "luminance_entropy": 0.040120463578143487,
+            "width": 500,
+            "zip_entropy": 0.7726293333333333
+        },
+        {
+            "fname": "scaled_image_29.png",
+            "height": 500,
+            "luminance_entropy": 0.06174756286390649,
+            "width": 500,
+            "zip_entropy": 0.643068
+        },
+        {
+            "fname": "scaled_image_3.png",
+            "height": 500,
+            "luminance_entropy": 0.06735607057228067,
+            "width": 500,
+            "zip_entropy": 0.7772773333333334
+        },
+        {
+            "fname": "scaled_image_30.png",
+            "height": 500,
+            "luminance_entropy": 0.0273505307483735,
+            "width": 500,
+            "zip_entropy": 0.7040586666666667
+        },
+        {
+            "fname": "scaled_image_31.png",
+            "height": 500,
+            "luminance_entropy": 0.0506315161068406,
+            "width": 500,
+            "zip_entropy": 0.6537146666666667
+        },
+        {
+            "fname": "scaled_image_32.png",
+            "height": 500,
+            "luminance_entropy": 0.042069781297927565,
+            "width": 500,
+            "zip_entropy": 0.605224
+        },
+        {
+            "fname": "scaled_image_33.png",
+            "height": 500,
+            "luminance_entropy": 0.040159246773908606,
+            "width": 500,
+            "zip_entropy": 0.643012
+        },
+        {
+            "fname": "scaled_image_34.png",
+            "height": 500,
+            "luminance_entropy": 0.010108287697839797,
+            "width": 500,
+            "zip_entropy": 0.41912133333333335
+        },
+        {
+            "fname": "scaled_image_35.png",
+            "height": 500,
+            "luminance_entropy": 0.011344338396465136,
+            "width": 500,
+            "zip_entropy": 0.3737893333333333
+        },
+        {
+            "fname": "scaled_image_36.png",
+            "height": 500,
+            "luminance_entropy": 0.03309723421789702,
+            "width": 500,
+            "zip_entropy": 0.888264
+        },
+        {
+            "fname": "scaled_image_37.png",
+            "height": 500,
+            "luminance_entropy": 0.034315857222542365,
+            "width": 500,
+            "zip_entropy": 0.6259906666666667
+        },
+        {
+            "fname": "scaled_image_38.png",
+            "height": 500,
+            "luminance_entropy": 0.031204053412893073,
+            "width": 500,
+            "zip_entropy": 0.5231546666666667
+        },
+        {
+            "fname": "scaled_image_39.png",
+            "height": 500,
+            "luminance_entropy": 0.042886093755363536,
+            "width": 500,
+            "zip_entropy": 0.6762306666666666
+        },
+        {
+            "fname": "scaled_image_4.png",
+            "height": 500,
+            "luminance_entropy": 0.05915609729300788,
+            "width": 500,
+            "zip_entropy": 0.764376
+        },
+        {
+            "fname": "scaled_image_40.png",
+            "height": 500,
+            "luminance_entropy": 0.05626751434978814,
+            "width": 500,
+            "zip_entropy": 0.730332
+        },
+        {
+            "fname": "scaled_image_41.png",
+            "height": 500,
+            "luminance_entropy": 0.06440242404860301,
+            "width": 500,
+            "zip_entropy": 0.7398586666666667
+        },
+        {
+            "fname": "scaled_image_42.png",
+            "height": 500,
+            "luminance_entropy": 0.010931544401655974,
+            "width": 500,
+            "zip_entropy": 0.5304813333333334
+        },
+        {
+            "fname": "scaled_image_43.png",
+            "height": 500,
+            "luminance_entropy": 0.052985475641096506,
+            "width": 500,
+            "zip_entropy": 0.7206106666666666
+        },
+        {
+            "fname": "scaled_image_44.png",
+            "height": 500,
+            "luminance_entropy": 0.03834740579925754,
+            "width": 500,
+            "zip_entropy": 0.5330546666666667
+        },
+        {
+            "fname": "scaled_image_45.png",
+            "height": 500,
+            "luminance_entropy": 0.047120165993276085,
+            "width": 500,
+            "zip_entropy": 0.7917213333333334
+        },
+        {
+            "fname": "scaled_image_46.png",
+            "height": 500,
+            "luminance_entropy": 0.04508621926898024,
+            "width": 500,
+            "zip_entropy": 0.7424013333333334
+        },
+        {
+            "fname": "scaled_image_47.png",
+            "height": 500,
+            "luminance_entropy": 0.01479238450393069,
+            "width": 500,
+            "zip_entropy": 0.47608533333333336
+        },
+        {
+            "fname": "scaled_image_48.png",
+            "height": 500,
+            "luminance_entropy": 0.007182176067800358,
+            "width": 500,
+            "zip_entropy": 0.31074
+        },
+        {
+            "fname": "scaled_image_49.png",
+            "height": 500,
+            "luminance_entropy": 0.028965655038491883,
+            "width": 500,
+            "zip_entropy": 0.519944
+        },
+        {
+            "fname": "scaled_image_5.png",
+            "height": 500,
+            "luminance_entropy": 0.03890990707027993,
+            "width": 500,
+            "zip_entropy": 0.69778
+        },
+        {
+            "fname": "scaled_image_50.png",
+            "height": 500,
+            "luminance_entropy": 0.01910066622892155,
+            "width": 500,
+            "zip_entropy": 0.7573986666666667
+        },
+        {
+            "fname": "scaled_image_51.png",
+            "height": 500,
+            "luminance_entropy": 0.053669636583545025,
+            "width": 500,
+            "zip_entropy": 0.813216
+        },
+        {
+            "fname": "scaled_image_52.png",
+            "height": 500,
+            "luminance_entropy": 0.02477329191240681,
+            "width": 500,
+            "zip_entropy": 0.40869466666666665
+        },
+        {
+            "fname": "scaled_image_53.png",
+            "height": 500,
+            "luminance_entropy": 0.011073377281287468,
+            "width": 500,
+            "zip_entropy": 0.447468
+        },
+        {
+            "fname": "scaled_image_54.png",
+            "height": 500,
+            "luminance_entropy": 0.11759367248118222,
+            "width": 500,
+            "zip_entropy": 0.8887693333333333
+        },
+        {
+            "fname": "scaled_image_55.png",
+            "height": 500,
+            "luminance_entropy": 0.09551793091037121,
+            "width": 500,
+            "zip_entropy": 0.8738746666666667
+        },
+        {
+            "fname": "scaled_image_56.png",
+            "height": 500,
+            "luminance_entropy": 0.07263267901137105,
+            "width": 500,
+            "zip_entropy": 0.7707826666666666
+        },
+        {
+            "fname": "scaled_image_57.png",
+            "height": 500,
+            "luminance_entropy": 0.0669939032670683,
+            "width": 500,
+            "zip_entropy": 0.6942786666666667
+        },
+        {
+            "fname": "scaled_image_58.png",
+            "height": 500,
+            "luminance_entropy": 0.13557095816376757,
+            "width": 500,
+            "zip_entropy": 0.9351586666666667
+        },
+        {
+            "fname": "scaled_image_59.png",
+            "height": 500,
+            "luminance_entropy": 0.06308769335377354,
+            "width": 500,
+            "zip_entropy": 0.758264
+        },
+        {
+            "fname": "scaled_image_6.png",
+            "height": 500,
+            "luminance_entropy": 0.06744698492330177,
+            "width": 500,
+            "zip_entropy": 0.723628
+        },
+        {
+            "fname": "scaled_image_60.png",
+            "height": 500,
+            "luminance_entropy": 0.04775847099601713,
+            "width": 500,
+            "zip_entropy": 0.6825426666666666
+        },
+        {
+            "fname": "scaled_image_61.png",
+            "height": 500,
+            "luminance_entropy": 0.01940528006149272,
+            "width": 500,
+            "zip_entropy": 0.6749453333333333
+        },
+        {
+            "fname": "scaled_image_62.png",
+            "height": 500,
+            "luminance_entropy": 0.07389756295393608,
+            "width": 500,
+            "zip_entropy": 0.776076
+        },
+        {
+            "fname": "scaled_image_63.png",
+            "height": 500,
+            "luminance_entropy": 0.07795961551789064,
+            "width": 500,
+            "zip_entropy": 0.7879053333333333
+        },
+        {
+            "fname": "scaled_image_64.png",
+            "height": 500,
+            "luminance_entropy": 0.01771641356589667,
+            "width": 500,
+            "zip_entropy": 0.3025946666666667
+        },
+        {
+            "fname": "scaled_image_65.png",
+            "height": 500,
+            "luminance_entropy": 0.12263888122340844,
+            "width": 500,
+            "zip_entropy": 0.8737906666666667
+        },
+        {
+            "fname": "scaled_image_66.png",
+            "height": 500,
+            "luminance_entropy": 0.0076478126341004565,
+            "width": 500,
+            "zip_entropy": 0.37722266666666665
+        },
+        {
+            "fname": "scaled_image_67.png",
+            "height": 500,
+            "luminance_entropy": 0.04553203993828903,
+            "width": 500,
+            "zip_entropy": 0.6556
+        },
+        {
+            "fname": "scaled_image_68.png",
+            "height": 500,
+            "luminance_entropy": 0.09939947554965922,
+            "width": 500,
+            "zip_entropy": 0.83906
+        },
+        {
+            "fname": "scaled_image_69.png",
+            "height": 500,
+            "luminance_entropy": 0.09897456371979371,
+            "width": 500,
+            "zip_entropy": 0.8597613333333334
+        },
+        {
+            "fname": "scaled_image_7.png",
+            "height": 500,
+            "luminance_entropy": 0.010943299379170898,
+            "width": 500,
+            "zip_entropy": 0.35608666666666666
+        },
+        {
+            "fname": "scaled_image_70.png",
+            "height": 500,
+            "luminance_entropy": 0.0460851545771956,
+            "width": 500,
+            "zip_entropy": 0.63974
+        },
+        {
+            "fname": "scaled_image_71.png",
+            "height": 500,
+            "luminance_entropy": 0.06375670194494068,
+            "width": 500,
+            "zip_entropy": 0.7857986666666666
+        },
+        {
+            "fname": "scaled_image_72.png",
+            "height": 500,
+            "luminance_entropy": 0.050553052153125985,
+            "width": 500,
+            "zip_entropy": 0.8232306666666667
+        },
+        {
+            "fname": "scaled_image_73.png",
+            "height": 500,
+            "luminance_entropy": 0.030202523797521107,
+            "width": 500,
+            "zip_entropy": 0.5972653333333333
+        },
+        {
+            "fname": "scaled_image_74.png",
+            "height": 500,
+            "luminance_entropy": 0.05546454117394894,
+            "width": 500,
+            "zip_entropy": 0.785168
+        },
+        {
+            "fname": "scaled_image_75.png",
+            "height": 500,
+            "luminance_entropy": 0.02059217179014546,
+            "width": 500,
+            "zip_entropy": 0.5959986666666667
+        },
+        {
+            "fname": "scaled_image_76.png",
+            "height": 500,
+            "luminance_entropy": 0.022523141287850303,
+            "width": 500,
+            "zip_entropy": 0.7015413333333334
+        },
+        {
+            "fname": "scaled_image_77.png",
+            "height": 500,
+            "luminance_entropy": 0.07437416169554993,
+            "width": 500,
+            "zip_entropy": 0.8161173333333334
+        },
+        {
+            "fname": "scaled_image_78.png",
+            "height": 500,
+            "luminance_entropy": 0.018375854240123193,
+            "width": 500,
+            "zip_entropy": 0.531632
+        },
+        {
+            "fname": "scaled_image_79.png",
+            "height": 500,
+            "luminance_entropy": 0.039543140349446004,
+            "width": 500,
+            "zip_entropy": 0.8584346666666667
+        },
+        {
+            "fname": "scaled_image_8.png",
+            "height": 500,
+            "luminance_entropy": 0.07482616776914996,
+            "width": 500,
+            "zip_entropy": 0.7514786666666666
+        },
+        {
+            "fname": "scaled_image_80.png",
+            "height": 500,
+            "luminance_entropy": 0.08204126379290556,
+            "width": 500,
+            "zip_entropy": 0.8207573333333333
+        },
+        {
+            "fname": "scaled_image_81.png",
+            "height": 500,
+            "luminance_entropy": 0.05467675047064893,
+            "width": 500,
+            "zip_entropy": 0.68354
+        },
+        {
+            "fname": "scaled_image_82.png",
+            "height": 500,
+            "luminance_entropy": 0.014351256394040288,
+            "width": 500,
+            "zip_entropy": 0.6533133333333333
+        },
+        {
+            "fname": "scaled_image_83.png",
+            "height": 500,
+            "luminance_entropy": 0.06635644891681315,
+            "width": 500,
+            "zip_entropy": 0.792564
+        },
+        {
+            "fname": "scaled_image_84.png",
+            "height": 500,
+            "luminance_entropy": 0.10834469356630223,
+            "width": 500,
+            "zip_entropy": 0.7691706666666667
+        },
+        {
+            "fname": "scaled_image_85.png",
+            "height": 500,
+            "luminance_entropy": 0.03254290456537029,
+            "width": 500,
+            "zip_entropy": 0.68124
+        },
+        {
+            "fname": "scaled_image_86.png",
+            "height": 500,
+            "luminance_entropy": 0.015840340784736243,
+            "width": 500,
+            "zip_entropy": 0.5734866666666667
+        },
+        {
+            "fname": "scaled_image_87.png",
+            "height": 500,
+            "luminance_entropy": 0.04729343396989195,
+            "width": 500,
+            "zip_entropy": 0.7393373333333333
+        },
+        {
+            "fname": "scaled_image_88.png",
+            "height": 500,
+            "luminance_entropy": 0.055312183104737844,
+            "width": 500,
+            "zip_entropy": 0.766964
+        },
+        {
+            "fname": "scaled_image_89.png",
+            "height": 500,
+            "luminance_entropy": 0.04990614494641961,
+            "width": 500,
+            "zip_entropy": 0.739108
+        },
+        {
+            "fname": "scaled_image_9.png",
+            "height": 500,
+            "luminance_entropy": 0.0593917615521879,
+            "width": 500,
+            "zip_entropy": 0.773452
+        },
+        {
+            "fname": "scaled_image_90.png",
+            "height": 500,
+            "luminance_entropy": 0.03617139484307495,
+            "width": 500,
+            "zip_entropy": 0.5960853333333334
+        },
+        {
+            "fname": "scaled_image_91.png",
+            "height": 500,
+            "luminance_entropy": 0.018649238585029673,
+            "width": 500,
+            "zip_entropy": 0.7175173333333333
+        },
+        {
+            "fname": "scaled_image_92.png",
+            "height": 500,
+            "luminance_entropy": 0.03731910520856611,
+            "width": 500,
+            "zip_entropy": 0.657268
+        },
+        {
+            "fname": "scaled_image_93.png",
+            "height": 500,
+            "luminance_entropy": 0.0520783304801115,
+            "width": 500,
+            "zip_entropy": 0.7457066666666666
+        },
+        {
+            "fname": "scaled_image_94.png",
+            "height": 500,
+            "luminance_entropy": 0.05160735258026071,
+            "width": 500,
+            "zip_entropy": 0.7515626666666667
+        },
+        {
+            "fname": "scaled_image_95.png",
+            "height": 500,
+            "luminance_entropy": 0.036546176927396916,
+            "width": 500,
+            "zip_entropy": 0.899676
+        },
+        {
+            "fname": "scaled_image_96.png",
+            "height": 500,
+            "luminance_entropy": 0.034788507401473934,
+            "width": 500,
+            "zip_entropy": 0.44011466666666665
+        },
+        {
+            "fname": "scaled_image_97.png",
+            "height": 500,
+            "luminance_entropy": 0.03342961415243811,
+            "width": 500,
+            "zip_entropy": 0.513928
+        },
+        {
+            "fname": "scaled_image_98.png",
+            "height": 500,
+            "luminance_entropy": 0.07743122630576078,
+            "width": 500,
+            "zip_entropy": 0.7075266666666666
+        },
+        {
+            "fname": "scaled_image_99.png",
+            "height": 500,
+            "luminance_entropy": 0.04102414657707733,
+            "width": 500,
+            "zip_entropy": 0.7197906666666667
+        }
+    ]
+}
